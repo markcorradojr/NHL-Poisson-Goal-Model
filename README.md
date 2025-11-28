@@ -1,5 +1,9 @@
 # NHL Poisson Goal Prediction Model
 
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Model](https://img.shields.io/badge/Model-Poisson-lightgrey)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+
 This repository contains a complete end-to-end statistical model for predicting NHL scoring outcomes using Poisson distributions.  
 It is designed to demonstrate quantitative reasoning, model construction, clean code structure, and applied statistics — all highly relevant to sportsbook analytics, data science, and quantitative research roles.
 
